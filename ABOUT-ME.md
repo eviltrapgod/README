@@ -12,8 +12,7 @@
 - Study projects, backend-related ideas, or anything fun and challenging
 
 ## 📫 How to Reach Me
-- Telegram: [@33eviltrapgod](https://t.me/user?id=1199971207)
-- Email: *add your email here if needed*
+- Telegram: [LinkToBio](https://t.me/eviltrapgod33)
 
 ## 😄 Pronouns
 - He / Him — or just "bro", "dude", or "you"
