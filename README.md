@@ -1,21 +1,14 @@
-# 👋 Hey! I'm @33eviltraapgod
+## About Me
 
-## 🚀 About Me
-- 👀 I'm into tech, backend development, and solving real problems through code
-- 🌱 Currently learning:
-  - **Python** — both procedural and object-oriented programming
-  - **Java** — focusing on object-oriented programming
-  - **Backend development** with **JavaScript** and **TypeScript**
-- 🧠 Always learning and exploring new tools and concepts
+I'm from **Russia**, currently living and learning  
+I speak **Russian** fluently as my native language  
+I also communicate in **English**, but not very confidently yet  
 
-## 🤝 Looking to Collaborate On
-- Study projects, backend-related ideas, or anything fun and challenging
+## Skills
 
-## 📫 How to Reach Me
-- Telegram: [LinkToBio](https://t.me/eviltrapgod33)
-
-## 😄 Pronouns
-- He / Him — or just "bro", "dude", or "you"
-
-## ⚡ Fun Fact
-> Everything works fine... until I try to fix it.
+Actively learning **Python**, mainly with **Aiogram 3** framework  
+Basic but growing knowledge of **Java** programming  
+Hands-on experience with **Docker** and **Docker Compose** tools  
+Familiar with setting up simple **CI/CD** workflows and pipelines  
+Beginner-level understanding of **Kubernetes** orchestration concepts  
+Solid experience working with various **Linux**-based systems  
