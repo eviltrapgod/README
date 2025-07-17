@@ -9,7 +9,7 @@ I also communicate in <b>English</b>, but not very confidently yet  <br>
 <h2>Skills</h2>
 
 <span style="font-size:16px">
-• Actively learning <b>Python programming</b>, with focus on the <b>Aiogram 3</b> framework.<br>
+• Actively learning <b>Python programming</b>, with focus on the <b>Aiogram 3</b>, <b>PyQT6</b> frameworks.<br>
 • Basic but growing knowledge of <b>Java</b> and object-oriented principles.<br>
 • Practical experience using <b>Docker</b> and <b>Docker Compose</b> for service management.<br>
 • Understanding and applying basic <b>CI/CD workflows and deployment pipelines</b>.<br>
